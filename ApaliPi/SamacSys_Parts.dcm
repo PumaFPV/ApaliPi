@@ -36,4 +36,10 @@ K
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734248%7FE1%7Fpdf%7FEnglish%7FENG_CD_1734248_E1__.pdf%7F1734248-5
 $ENDCMP
 #
+$CMP 10151114-001TLF
+D MXM RA SMT CONN
+K
+F 
+$ENDCMP
+#
 #End Doc Library
