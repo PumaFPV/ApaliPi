@@ -1,0 +1,33 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SamacSys_Parts:72309-8014BLF J?
+U 1 1 6215432E
+P 4150 3050
+F 0 "J?" H 4650 3315 50  0000 C CNN
+F 1 "72309-8014BLF" H 4650 3224 50  0000 C CNN
+F 2 "723098014BLF" H 5000 3150 50  0001 L CNN
+F 3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/72309.pdf" H 5000 3050 50  0001 L CNN
+F 4 "USB Connectors 8P R/A RECPT" H 5000 2950 50  0001 L CNN "Description"
+F 5 "15" H 5000 2850 50  0001 L CNN "Height"
+F 6 "649-72309-8014BLF" H 5000 2750 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/72309-8014BLF/?qs=D%252By4jQJzx8Iuk4xBbyHrOA%3D%3D" H 5000 2650 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Amphenol" H 5000 2550 50  0001 L CNN "Manufacturer_Name"
+F 9 "72309-8014BLF" H 5000 2450 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4150 3050
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
