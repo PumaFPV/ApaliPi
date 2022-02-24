@@ -1,45 +1,37 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NE555DR
-D Single Precision Timer
-K
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
-$ENDCMP
-#
-$CMP 72309-8014BLF
-D USB Connectors 8P R/A RECPT
-K
-F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/72309.pdf
+$CMP 045138008100858+
+D Memory Card Connectors MICRO SD CARD 5138 SERIES
+F https://www.mouser.sg/datasheet/2/909/5138-1359342.pdf
 $ENDCMP
 #
 $CMP 10029449-111RLF
 D HDMI, Displayport & DVI Connectors HDMI REC TYPE A RA SMT
-K
 F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029449.pdf
-$ENDCMP
-#
-$CMP 61500814221
-D Wurth Elektronik WR-MJ, 8 Way Right Angle PCB Mount RJ45 Connector, Socket
-K
-F http://katalog.we-online.de/em/datasheet/61500814221.pdf
-$ENDCMP
-#
-$CMP 045138008100858+
-D Memory Card Connectors MICRO SD CARD 5138 SERIES
-K
-F https://www.mouser.sg/datasheet/2/909/5138-1359342.pdf
-$ENDCMP
-#
-$CMP 1734248-5
-D TE CONNECTIVITY - 1734248-5 - FFC/FPC CONN, RECEPTACLE, 5WAY, 2ROW
-K
-F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734248%7FE1%7Fpdf%7FEnglish%7FENG_CD_1734248_E1__.pdf%7F1734248-5
 $ENDCMP
 #
 $CMP 10151114-001TLF
 D MXM RA SMT CONN
-K
-F 
+$ENDCMP
+#
+$CMP 1734248-5
+D TE CONNECTIVITY - 1734248-5 - FFC/FPC CONN, RECEPTACLE, 5WAY, 2ROW
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734248%7FE1%7Fpdf%7FEnglish%7FENG_CD_1734248_E1__.pdf%7F1734248-5
+$ENDCMP
+#
+$CMP 61500814221
+D Wurth Elektronik WR-MJ, 8 Way Right Angle PCB Mount RJ45 Connector, Socket
+F http://katalog.we-online.de/em/datasheet/61500814221.pdf
+$ENDCMP
+#
+$CMP 72309-8014BLF
+D USB Connectors 8P R/A RECPT
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/72309.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
 #End Doc Library
